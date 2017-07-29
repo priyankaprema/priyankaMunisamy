@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class natural
+class nat
 {
 public static void main(String s[])
 {
