@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class prime
+class primenum
 {
 public static void main(String s[])
 {
